@@ -1,6 +1,6 @@
 # small-side-projects
 
-### Overview of the repository
+## Overview of the repository
 
 This repository contains some random, fun side projects done in Python / Jupyter notebooks. It includes the following files:
 
