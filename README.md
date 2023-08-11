@@ -1,4 +1,4 @@
-# random_notebooks
+# small-side-projects
 
 ### Overview of the repository
 
